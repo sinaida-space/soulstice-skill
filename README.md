@@ -1,10 +1,14 @@
 <img width="3072" height="384" alt="image" src="https://github.com/user-attachments/assets/39cab377-0065-4cfc-8a25-23cb5ab21ee6" />
 
-# Soulstice
+# SOULSTICE
 
 A guided self-inquiry tool for artists, packaged as a Claude Code skill. It asks you
 questions about why you make what you make, how much of it is actually yours, and
 where the material wants to go next, and it writes down what you find out.
+
+**Web version:** a static browser build with all six modes runs at
+<https://sinaida-space.github.io/soulstice/> — repository
+[`sinaida-space/soulstice`](https://github.com/sinaida-space/soulstice).
 
 It does not generate ideas, write your statement for you out of nothing, or plan
 projects. Every question arrives as a small multiple-choice card with three or four
@@ -67,7 +71,7 @@ direction comes from evidence instead of another guess.
   it exists yet. Feeds the statement's account of your medium and materials, and the
   PDF typesetting. What you want once, so it does not have to be re-derived every time.
 
-Soulstice never scopes a direction into a project itself. When a session produces one
+SOULSTICE never scopes a direction into a project itself. When a session produces one
 worth building, it hands that direction to the sibling skill
 [for-tee-too](https://github.com/sinaida-space/for-tee-too), which turns a direction
 into something scoped and buildable.
@@ -130,7 +134,7 @@ collapse does harm rather than clarity. Instead it gathers evidence against the
 verdict she arrived with, lands on one action for today, and ends in three concrete
 projects rather than in insight, because insight is not what collapse needs. Scoping
 one of the three is, again, a job for
-[for-tee-too](https://github.com/sinaida-space/for-tee-too). Soulstice stops one step
+[for-tee-too](https://github.com/sinaida-space/for-tee-too). SOULSTICE stops one step
 short of that.
 
 Its safety floor is narrow, and stated here plainly: despair, worthlessness and
@@ -211,12 +215,6 @@ move rather than a comfort, and guided discovery.
 The skill files are English. The session runs in whatever language you open in, and
 follows you if you switch.
 
-## Web version
-
-A static, self-guided build of the instrument, with all six modes, runs in the
-browser at <https://sinaida-space.github.io/soulstice/>. It is a separate project,
-in the repository [`sinaida-space/soulstice`](https://github.com/sinaida-space/soulstice).
-
 ## Install
 
 ```bash
@@ -236,7 +234,7 @@ is instructed to stop and say so.
 Sinaida Krivchenko, a new media artist based in Prague, working globally with
 interactive projection, TouchDesigner, GLSL and generative systems. Background in
 biomedical engineering and, before the art practice, independent cultural projects in the
-cultural sector. She built Soulstice to run on her own work first: a body of pieces
+cultural sector. She built SOULSTICE to run on her own work first: a body of pieces
 with no visible through-line and an artist statement that had to get written.
 
 - Work: [sinaida.eu](https://sinaida.eu)
