@@ -234,7 +234,7 @@ is instructed to stop and say so.
 Sinaida Krivchenko, a new media artist based in Prague, working globally with
 interactive projection, TouchDesigner, GLSL and generative systems. Background in
 biomedical engineering and, before the art practice, six years of independent
-cultural projects in Amsterdam. She built SOULSTICE to run on her own work first: a body of pieces
+cultural projects in Amsterdam. She made SOULSTICE to run on her own work first: a body of pieces
 with no visible through-line and an artist statement that had to get written.
 
 - Work: [sinaida.eu](https://sinaida.eu)
