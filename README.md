@@ -6,8 +6,6 @@ A guided self-inquiry tool for artists, packaged as a Claude Code skill. It asks
 questions about why you make what you make, how much of it is actually yours, and
 where the material wants to go next, and it writes down what you find out.
 
-> Production mirror. Development and issue tracking run in a private development environment; releases are published here.
-
 **Web version:** a static browser build with all six modes runs at
 <https://sinaida-space.github.io/soulstice/> — repository
 [`sinaida-space/soulstice`](https://github.com/sinaida-space/soulstice).
@@ -245,3 +243,7 @@ with no visible through-line and an artist statement that had to get written.
 ## License
 
 Apache 2.0.
+
+This repo is a production mirror.
+
+Development and issue tracking run in a private development environment; releases are published here.
