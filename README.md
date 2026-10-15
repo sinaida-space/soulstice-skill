@@ -18,6 +18,10 @@ what it leaves out, what the harder version is. Picking is easy and produces not
 on its own; the correction you type is where the real sentence appears, in your own
 words, because you typed it.
 
+**For personal reflection only.** Not therapy, not medical or psychological help, and
+no health claims. Use it at your own risk; if something is wrong, go to a professional.
+Details under [For personal reflection only](#for-personal-reflection-only).
+
 ## When you would use this
 
 **"I have twenty works and I cannot see what connects them."**
@@ -28,11 +32,10 @@ whether you meant it to or not. You end up with a written document naming the
 vocabulary that was there all along, plus three directions it actually supports.
 
 **"I am in collapse and it all feels pointless."**
-The verdict has already landed: nobody needs this, why bother. The collapse mode
-does not argue with that feeling or try to talk you out of it. It gathers concrete
-counter-evidence from your own history, lands on one small action for today, and
-ends in three actual projects you could start, because insight is not what this
-moment needs.
+The verdict has already landed: nobody needs this, why bother. Ground does not argue
+with that feeling or try to talk you out of it. It asks for concrete counter-evidence
+from your own history, lands on one small action for today, and ends in three actual
+projects you could start. What happens step by step is under [Ground](#ground).
 
 **"I keep repeating myself and I do not know where to go next."**
 The full walk again, for the opposite reason: the thread exists and you have
@@ -124,23 +127,27 @@ equipment, health.
 
 ## Ground
 
-Ground is the mode for the moment the verdict is already in: "I am shit, nobody needs
-this, where do I go now." It is chosen from the mode menu, and it is also entered
-automatically from any other mode the instant collapse surfaces, with the switch
-announced out loud every time it happens.
+Ground is a short mode for an evening when the work feels pointless: “I am shit, nobody
+needs this, where do I go now.” You can choose it from the mode menu, and the skill also
+switches to it from any other mode when that kind of sentence comes up, and says so when
+it does.
 
-It never runs Arc I. Arc I subtracts, and subtracting from someone already in
-collapse does harm rather than clarity. Instead it gathers evidence against the
-verdict she arrived with, lands on one action for today, and ends in three concrete
-projects rather than in insight, because insight is not what collapse needs. Scoping
-one of the three is, again, a job for
-[for-tee-too](https://github.com/sinaida-space/for-tee-too). SOULSTICE stops one step
-short of that.
+What happens in it, in order:
 
-Its safety floor is narrow, and stated here plainly: despair, worthlessness and
-hopelessness are exactly what this mode holds and works with. The only hard stop is a
-direct indication of intent to self-harm. That is the one point where the instrument
-stops and says plainly that this is past what it can hold.
+1. You separate what happened from the verdict you drew from it.
+2. It asks for concrete things from your own history that do not fit the verdict.
+3. You settle one small action for today or tomorrow.
+4. You name three projects you could start. Scoping one of them is a job for
+   [for-tee-too](https://github.com/sinaida-space/for-tee-too).
+5. It writes a short page to a file and ends. It offers the longer passage for another
+   day and says once: if the weight is still here in a week or two, take it to a person
+   you trust or to a professional. It says that sentence also if you stop early.
+
+Ground keeps working with despair and worthlessness about the work, because that is what
+it is for. If you write anything about harming yourself or not wanting to be alive, the
+questions stop, and it tells you plainly that this needs a person and points you to
+someone you can reach today, or to emergency services. Ground is a set of questions like
+the rest of the tool. It cannot do what a professional does.
 
 ## Labels are the door
 
@@ -176,8 +183,19 @@ making if no one would ever see it.
 
 ## Method
 
-Built from coaching and clinical-interview practice, stripped of its apparatus and
-never named in session:
+SOULSTICE is a reflection practice. It has not been tested as a clinical or scientific
+method and does not claim to be one. Layers 1 to 8 are a rearranged eight-item sequence from a
+psycho-esoteric teaching (fears, parental programmes, ego-programmes, semantic fields
+and so on); the Prologue and layers 9 to 11 are my additions. That vocabulary is not
+used in session, so it is stated here, before you start. The techniques below shape how
+the questions are asked; they do not make the instrument therapy.
+
+It is uncomfortable on purpose. The options are meant to be hard to pick, and the next
+card usually asks what your pick leaves out. You can always answer in your own words
+through Other, or stop at any point.
+
+The question formats are borrowed from coaching and interview practice. They are used
+as formats only, stripped of their apparatus and never named in session:
 
 - **Clean Language** (David Grove): ask about the person's material using only their
   own words, because a paraphrase moves them into your register and loses the thing
@@ -191,11 +209,9 @@ never named in session:
 - **The downward arrow, threat appraisal and fear-setting**, out of cognitive therapy
   and Stoic practice, for turning a global fear into one testable belief
 
-Grounded in what is known about how self-description works: autobiographical memory is
-reconstructive and preferentially returns material that fits the current self-model, so
-asking "who are you as an artist" retrieves a rehearsed narrative and asking "the last
-time it went well, what was in the room" retrieves the material that narrative was
-built from. That distinction is the instrument's core technique.
+The core technique is concreteness. Asking “who are you as an artist” usually gets a
+rehearsed answer; asking “the last time it went well, what was in the room” gets the
+material that answer was built from.
 
 The epoch layer runs on Agamben's contemporary who does not coincide with their time,
 Williams' structure of feeling, Bourdieu on position in a field, and Terry Smith on
@@ -203,12 +219,12 @@ contemporaneity. It is the layer that fails most often, and `references/epoch.md
 exists mostly to name the ways.
 
 A wider set of positions on finding oneself sits behind the epoch and standing layers,
-each one converted into a card. Like the clinical and coaching apparatus listed above,
+each one converted into a card. Like the coaching formats listed above,
 no philosopher's name is ever spoken in session: the position appears as a card, not
-as attribution. The unpacking method has also grown a full cognitive-therapy toolkit
-beyond the downward arrow: a thought record, a catalogue of distortions that is never
-named to the user, behavioural experiments, self-compassion used as an instrumental
-move rather than a comfort, and guided discovery.
+as attribution. The unpacking method also borrows worksheet formats beyond the downward
+arrow: a thought record, a list of thinking traps that is never named to the user, small
+real-world experiments, self-kindness used as a practical move, and guided questions.
+They are question formats here, nothing more.
 
 ## Language
 
@@ -223,11 +239,17 @@ git clone https://github.com/sinaida-space/soulstice-skill.git ~/.claude/skills/
 
 Then `/soulstice`, or just ask Claude what your work is really about.
 
-## Not therapy
+## For personal reflection only
 
-This is an inquiry tool. Diagnosis, spiritual instruction and care belong elsewhere,
-with people. If something surfaces that is past what an instrument can hold, the skill
-is instructed to stop and say so.
+SOULSTICE is for personal reflection only. It is a set of questions for self-reflection,
+nothing more. It is not therapy and not medical or psychological help, and it makes no
+claim about your health or wellbeing. It does not replace a doctor, psychologist or
+therapist: if something is wrong, please go to a professional. You use it at your own
+risk.
+
+Diagnosis, care and spiritual instruction belong elsewhere, with people. If something
+surfaces that is past what a set of questions can hold, the skill is instructed to stop
+and say so.
 
 ## Made by
 
