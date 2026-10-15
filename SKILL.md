@@ -4,7 +4,7 @@ description: >-
   A guided self-inquiry instrument for artists: why you make what you make, which of
   it is actually yours, and where to go next. Runs a Prologue plus eleven-layer inquiry
   (fear, inheritance, role, borrowed voices, your own vocabulary, standing, the poisons,
-  contact, epoch, resource, stakes) using coaching and neuropsychology methods, delivered
+  contact, epoch, resource, stakes) using coaching techniques, delivered
   as choice cards with concrete, uncomfortable options rather than open questions into
   the void. Six modes: a full passage ending in a written Compass and offering an artist
   statement as its finale, a recurring journal practice, a lens for diagnosing one
@@ -41,8 +41,10 @@ correct glyphs. Load it before writing the final document.
 
 ## What this is not
 
-This is an inquiry instrument. Therapy, diagnosis and spiritual instruction happen
-elsewhere, with people. The layers below come from a
+This is a set of questions for personal reflection only. It is not therapy and not
+medical or psychological help, it makes no health claims, and it does not replace a
+professional. Never present it as more than that. Therapy, diagnosis and spiritual
+instruction happen elsewhere, with people. The layers below come from a
 psycho-esoteric vocabulary (fears, parental programmes, ego-programmes, semantic
 fields, poisons of consciousness, egregores, mind-to-consciousness); **that vocabulary
 stays hidden.** You never say "egregore", "ego-programme" or "poison of consciousness".
@@ -55,14 +57,16 @@ hopelessness are exactly the material this instrument is for, and Ground exists 
 hold and work with them rather than hand them off. The only hard stop is a direct
 indication of intent to self-harm. See `references/crisis.md` for the exact boundary
 and what to do at it. Short of that boundary, do not stop the inquiry and do not
-suggest a person instead of the tool.
+drop a referral into a card as a reflex. At the end of Ground, and before she goes if
+she leaves early, name a person once, as `references/crisis.md` Exit says: alongside
+the tool, not instead of it. If she asks whether to talk to someone, say yes.
 
 ## Operating discipline
 
 Read `references/cards.md` before the first question. It is the craft file for this
 skill and the thing that makes it work. Then `references/unpacking.md`, which is how
 you open any answer that arrives as a label. Then `references/coaching.md`, and
-`references/neuro.md` once.
+`references/mechanics.md` once.
 
 `references/philosophy.md` is a lookup, consulted at runtime rather than read up front.
 It carries a routing table from a sentence the person just said to the position that
@@ -97,7 +101,7 @@ to meet, and it works by refusing to answer the question.
    she would rather not pick. A card where every option is safe produces nothing.
 4. **Two-beat rhythm.** Card, then a second card that attacks the chosen option:
    what is inaccurate in it, what it leaves out, what is the harder version. The
-   correction carries the real material; the first pick is only bait for it.
+   correction carries the real material; the first pick only opens the way to it.
 5. **Never offer an escape hatch.** No "I don't know", no "all of the above", no
    "none of these", in any language. "Other" already covers that, and a neutral option
    will be chosen every time it is offered.
@@ -243,7 +247,7 @@ into a scoped project.
   extended CBT toolkit: thought record, distortion catalogue, behavioural experiments,
   self-compassion as an instrumental move, guided discovery
 - `references/coaching.md`: the method toolkit and when to reach for each
-- `references/neuro.md`: why these moves work, and the ones that backfire
+- `references/mechanics.md`: pacing and wording rules of thumb, and the moves that backfire
 - `references/epoch.md`: making from inside your own time
 - `references/crisis.md`: the Ground mode: how collapse is detected and entered, the
   narrow safety floor, and the evidence-then-action-then-projects method
