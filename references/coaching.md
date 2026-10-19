@@ -76,7 +76,7 @@ Do not argue with resistance; ask the person to argue with themselves.
 
 ## Should versus want
 
-From coaching practice, and from Sinaida's own style workbook, where it is the tell
+From coaching practice, and from the author's own style workbook, where it is the tell
 for a "point of resistance". When she describes a choice about what to make using
 *had to*, *supposed to*, *you're meant to*, *everyone does*, that is a borrowed want
 wearing the grammar of obligation. Work made from "do it the way they do it" comes

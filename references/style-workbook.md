@@ -1,6 +1,6 @@
 # The style workbook
 
-Source: Sinaida's own worksheet *Как найти свой стиль и голос* (sin.ai.da, 2026), a
+Source: the author's own worksheet *Как найти свой стиль и голос* (sin.ai.da, 2026), a
 six-section instrument covering the same ground as Soulstice but built for solo
 written work rather than a guided session. Everything below is drawn from it. It adds
 two things the layers did not carry: a few card shapes, and a set of between-session

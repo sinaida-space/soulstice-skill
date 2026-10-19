@@ -255,7 +255,7 @@ into a scoped project.
   standing, and the routing table from what she says to the position that answers it
 - `references/statement.md`: the artist statement mode: five sections, entry paths,
   the nothing-is-invented rule, the draft-and-edit loop, and the three output lengths
-- `references/style-workbook.md`: material from Sinaida's own style-and-voice
+- `references/style-workbook.md`: material from the author's own style-and-voice
   worksheet: three card shapes for layers 5, 1 and 11, six between-session exercises
   for Journal mode and post-Compass, the reverse-constraint move, and the taste plus
   technique plus voice synthesis line for the Compass
